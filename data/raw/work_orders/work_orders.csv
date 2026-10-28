@@ -1,0 +1,241 @@
+wo_id,equipment_id,date,fault_code,symptoms,root_cause,repair_action,outcome,downtime_hours,text
+WO-0001,MTR-002,2026-02-02,BRG-WEAR,High vibration at drive end bearing housing,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",6.7,"Work order WO-0001 on MTR-002 (2026-02-02).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: High vibration at drive end bearing housing.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0002,MTR-001,2026-03-21,BRG-WEAR,Vibration RMS rising steadily over several shifts,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",16.3,"Work order WO-0002 on MTR-001 (2026-03-21).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: Vibration RMS rising steadily over several shifts.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0003,MTR-001,2026-03-17,BRG-WEAR,High vibration at drive end bearing housing,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",8.8,"Work order WO-0003 on MTR-001 (2026-03-17).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: High vibration at drive end bearing housing.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0004,MTR-003,2026-01-05,COOL-FAIL,Frame temperature above alarm limit on hot days,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",27.8,"Work order WO-0004 on MTR-003 (2026-01-05).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Frame temperature above alarm limit on hot days.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0005,MTR-003,2026-01-24,MISALIGN,Coupling bolts loosening and vibration after reassembly,Shaft misalignment between motor and pump exceeded tolerance.,Realigned the shaft with laser alignment and re-torqued the coupling bolts.,"resolved, no recurrence in 30 days",9.3,"Work order WO-0005 on MTR-003 (2026-01-24).
+Fault code: MISALIGN (Shaft misalignment).
+Symptoms: Coupling bolts loosening and vibration after reassembly.
+Root cause: Shaft misalignment between motor and pump exceeded tolerance.
+Repair action: Realigned the shaft with laser alignment and re-torqued the coupling bolts.
+Outcome: resolved, no recurrence in 30 days."
+WO-0006,MTR-001,2026-02-19,WIND-INS,Insulation resistance dropped during megger test,Winding insulation degraded from sustained overheating.,Rewound the stator and applied new insulation varnish; retested insulation resistance.,recurred within 30 days,30.8,"Work order WO-0006 on MTR-001 (2026-02-19).
+Fault code: WIND-INS (Winding insulation degradation).
+Symptoms: Insulation resistance dropped during megger test.
+Root cause: Winding insulation degraded from sustained overheating.
+Repair action: Rewound the stator and applied new insulation varnish; retested insulation resistance.
+Outcome: recurred within 30 days."
+WO-0007,MTR-004,2026-03-14,COOL-FAIL,Frame temperature above alarm limit on hot days,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",6.2,"Work order WO-0007 on MTR-004 (2026-03-14).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Frame temperature above alarm limit on hot days.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0008,MTR-003,2026-03-19,UNBAL,1x running speed vibration after fan service,Dust build-up on cooling fan blades caused rotor imbalance.,Cleaned the cooling fan and rebalanced the rotor.,"resolved, no recurrence in 30 days",8.5,"Work order WO-0008 on MTR-003 (2026-03-19).
+Fault code: UNBAL (Rotor unbalance).
+Symptoms: 1x running speed vibration after fan service.
+Root cause: Dust build-up on cooling fan blades caused rotor imbalance.
+Repair action: Cleaned the cooling fan and rebalanced the rotor.
+Outcome: resolved, no recurrence in 30 days."
+WO-0009,MTR-003,2026-01-15,BRG-WEAR,High vibration at drive end bearing housing,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",31.1,"Work order WO-0009 on MTR-003 (2026-01-15).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: High vibration at drive end bearing housing.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0010,MTR-003,2026-01-25,BRG-WEAR,Metallic noise from bearing housing during operation,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",14.6,"Work order WO-0010 on MTR-003 (2026-01-25).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: Metallic noise from bearing housing during operation.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0011,MTR-001,2026-03-23,MISALIGN,Coupling bolts loosening and vibration after reassembly,Shaft misalignment between motor and pump exceeded tolerance.,Realigned the shaft with laser alignment and re-torqued the coupling bolts.,"resolved, no recurrence in 30 days",23.6,"Work order WO-0011 on MTR-001 (2026-03-23).
+Fault code: MISALIGN (Shaft misalignment).
+Symptoms: Coupling bolts loosening and vibration after reassembly.
+Root cause: Shaft misalignment between motor and pump exceeded tolerance.
+Repair action: Realigned the shaft with laser alignment and re-torqued the coupling bolts.
+Outcome: resolved, no recurrence in 30 days."
+WO-0012,MTR-004,2026-02-22,COOL-FAIL,Reduced airflow over cooling fins,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",11.2,"Work order WO-0012 on MTR-004 (2026-02-22).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Reduced airflow over cooling fins.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0013,MTR-001,2026-02-03,COOL-FAIL,Motor temperature rising steadily under load,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",29.9,"Work order WO-0013 on MTR-001 (2026-02-03).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Motor temperature rising steadily under load.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0014,MTR-002,2026-03-18,WIND-INS,Winding temperature high at no load,Winding insulation degraded from sustained overheating.,Rewound the stator and applied new insulation varnish; retested insulation resistance.,"resolved, no recurrence in 30 days",31.8,"Work order WO-0014 on MTR-002 (2026-03-18).
+Fault code: WIND-INS (Winding insulation degradation).
+Symptoms: Winding temperature high at no load.
+Root cause: Winding insulation degraded from sustained overheating.
+Repair action: Rewound the stator and applied new insulation varnish; retested insulation resistance.
+Outcome: resolved, no recurrence in 30 days."
+WO-0015,MTR-004,2026-03-28,WIND-INS,Insulation resistance dropped during megger test,Winding insulation degraded from sustained overheating.,Rewound the stator and applied new insulation varnish; retested insulation resistance.,"resolved, no recurrence in 30 days",17.6,"Work order WO-0015 on MTR-004 (2026-03-28).
+Fault code: WIND-INS (Winding insulation degradation).
+Symptoms: Insulation resistance dropped during megger test.
+Root cause: Winding insulation degraded from sustained overheating.
+Repair action: Rewound the stator and applied new insulation varnish; retested insulation resistance.
+Outcome: resolved, no recurrence in 30 days."
+WO-0016,MTR-003,2026-03-20,WIND-INS,Insulation resistance dropped during megger test,Winding insulation degraded from sustained overheating.,Rewound the stator and applied new insulation varnish; retested insulation resistance.,"resolved, no recurrence in 30 days",16.6,"Work order WO-0016 on MTR-003 (2026-03-20).
+Fault code: WIND-INS (Winding insulation degradation).
+Symptoms: Insulation resistance dropped during megger test.
+Root cause: Winding insulation degraded from sustained overheating.
+Repair action: Rewound the stator and applied new insulation varnish; retested insulation resistance.
+Outcome: resolved, no recurrence in 30 days."
+WO-0017,MTR-002,2026-03-11,COOL-FAIL,Frame temperature above alarm limit on hot days,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",18.8,"Work order WO-0017 on MTR-002 (2026-03-11).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Frame temperature above alarm limit on hot days.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0018,MTR-002,2026-04-02,BRG-WEAR,High vibration at drive end bearing housing,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",16.4,"Work order WO-0018 on MTR-002 (2026-04-02).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: High vibration at drive end bearing housing.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0019,MTR-004,2026-03-13,BRG-WEAR,Metallic noise from bearing housing during operation,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",10.5,"Work order WO-0019 on MTR-004 (2026-03-13).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: Metallic noise from bearing housing during operation.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0020,MTR-001,2026-04-02,COOL-FAIL,Motor temperature rising steadily under load,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",32.1,"Work order WO-0020 on MTR-001 (2026-04-02).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Motor temperature rising steadily under load.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0021,MTR-003,2026-03-01,WIND-INS,Tripped on earth fault after heating period,Winding insulation degraded from sustained overheating.,Rewound the stator and applied new insulation varnish; retested insulation resistance.,"resolved, no recurrence in 30 days",7.4,"Work order WO-0021 on MTR-003 (2026-03-01).
+Fault code: WIND-INS (Winding insulation degradation).
+Symptoms: Tripped on earth fault after heating period.
+Root cause: Winding insulation degraded from sustained overheating.
+Repair action: Rewound the stator and applied new insulation varnish; retested insulation resistance.
+Outcome: resolved, no recurrence in 30 days."
+WO-0022,MTR-003,2026-03-10,BRG-WEAR,Vibration RMS rising steadily over several shifts,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",27.9,"Work order WO-0022 on MTR-003 (2026-03-10).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: Vibration RMS rising steadily over several shifts.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0023,MTR-003,2026-03-27,COOL-FAIL,Motor temperature rising steadily under load,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",19.3,"Work order WO-0023 on MTR-003 (2026-03-27).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Motor temperature rising steadily under load.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0024,MTR-002,2026-03-15,MISALIGN,Coupling vibration at twice running speed,Shaft misalignment between motor and pump exceeded tolerance.,Realigned the shaft with laser alignment and re-torqued the coupling bolts.,"resolved, no recurrence in 30 days",34.4,"Work order WO-0024 on MTR-002 (2026-03-15).
+Fault code: MISALIGN (Shaft misalignment).
+Symptoms: Coupling vibration at twice running speed.
+Root cause: Shaft misalignment between motor and pump exceeded tolerance.
+Repair action: Realigned the shaft with laser alignment and re-torqued the coupling bolts.
+Outcome: resolved, no recurrence in 30 days."
+WO-0025,MTR-004,2026-01-07,COOL-FAIL,Motor temperature rising steadily under load,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",5.8,"Work order WO-0025 on MTR-004 (2026-01-07).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Motor temperature rising steadily under load.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0026,MTR-002,2026-03-18,WIND-INS,Winding temperature high at no load,Winding insulation degraded from sustained overheating.,Rewound the stator and applied new insulation varnish; retested insulation resistance.,"resolved, no recurrence in 30 days",34.2,"Work order WO-0026 on MTR-002 (2026-03-18).
+Fault code: WIND-INS (Winding insulation degradation).
+Symptoms: Winding temperature high at no load.
+Root cause: Winding insulation degraded from sustained overheating.
+Repair action: Rewound the stator and applied new insulation varnish; retested insulation resistance.
+Outcome: resolved, no recurrence in 30 days."
+WO-0027,MTR-001,2026-03-14,BRG-WEAR,Vibration RMS rising steadily over several shifts,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",28.0,"Work order WO-0027 on MTR-001 (2026-03-14).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: Vibration RMS rising steadily over several shifts.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0028,MTR-002,2026-02-07,MISALIGN,Coupling bolts loosening and vibration after reassembly,Shaft misalignment between motor and pump exceeded tolerance.,Realigned the shaft with laser alignment and re-torqued the coupling bolts.,"resolved, no recurrence in 30 days",19.9,"Work order WO-0028 on MTR-002 (2026-02-07).
+Fault code: MISALIGN (Shaft misalignment).
+Symptoms: Coupling bolts loosening and vibration after reassembly.
+Root cause: Shaft misalignment between motor and pump exceeded tolerance.
+Repair action: Realigned the shaft with laser alignment and re-torqued the coupling bolts.
+Outcome: resolved, no recurrence in 30 days."
+WO-0029,MTR-002,2026-02-13,COOL-FAIL,Frame temperature above alarm limit on hot days,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",15.6,"Work order WO-0029 on MTR-002 (2026-02-13).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Frame temperature above alarm limit on hot days.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0030,MTR-004,2026-01-20,WIND-INS,Winding temperature high at no load,Winding insulation degraded from sustained overheating.,Rewound the stator and applied new insulation varnish; retested insulation resistance.,"resolved, no recurrence in 30 days",10.4,"Work order WO-0030 on MTR-004 (2026-01-20).
+Fault code: WIND-INS (Winding insulation degradation).
+Symptoms: Winding temperature high at no load.
+Root cause: Winding insulation degraded from sustained overheating.
+Repair action: Rewound the stator and applied new insulation varnish; retested insulation resistance.
+Outcome: resolved, no recurrence in 30 days."
+WO-0031,MTR-002,2026-03-21,BRG-WEAR,Metallic noise from bearing housing during operation,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,recurred within 30 days,9.5,"Work order WO-0031 on MTR-002 (2026-03-21).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: Metallic noise from bearing housing during operation.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: recurred within 30 days."
+WO-0032,MTR-002,2026-01-13,BRG-WEAR,Vibration RMS rising steadily over several shifts,Lubricant degradation and fatigue caused bearing race wear.,Replaced the drive-end bearing and re-greased the housing with the specified grease.,"resolved, no recurrence in 30 days",32.8,"Work order WO-0032 on MTR-002 (2026-01-13).
+Fault code: BRG-WEAR (Bearing wear).
+Symptoms: Vibration RMS rising steadily over several shifts.
+Root cause: Lubricant degradation and fatigue caused bearing race wear.
+Repair action: Replaced the drive-end bearing and re-greased the housing with the specified grease.
+Outcome: resolved, no recurrence in 30 days."
+WO-0033,MTR-003,2026-03-31,WIND-INS,Insulation resistance dropped during megger test,Winding insulation degraded from sustained overheating.,Rewound the stator and applied new insulation varnish; retested insulation resistance.,"resolved, no recurrence in 30 days",18.5,"Work order WO-0033 on MTR-003 (2026-03-31).
+Fault code: WIND-INS (Winding insulation degradation).
+Symptoms: Insulation resistance dropped during megger test.
+Root cause: Winding insulation degraded from sustained overheating.
+Repair action: Rewound the stator and applied new insulation varnish; retested insulation resistance.
+Outcome: resolved, no recurrence in 30 days."
+WO-0034,MTR-004,2026-02-05,COOL-FAIL,Motor temperature rising steadily under load,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,"resolved, no recurrence in 30 days",28.7,"Work order WO-0034 on MTR-004 (2026-02-05).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Motor temperature rising steadily under load.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: resolved, no recurrence in 30 days."
+WO-0035,MTR-004,2026-02-19,UNBAL,1x running speed vibration after fan service,Dust build-up on cooling fan blades caused rotor imbalance.,Cleaned the cooling fan and rebalanced the rotor.,recurred within 30 days,16.4,"Work order WO-0035 on MTR-004 (2026-02-19).
+Fault code: UNBAL (Rotor unbalance).
+Symptoms: 1x running speed vibration after fan service.
+Root cause: Dust build-up on cooling fan blades caused rotor imbalance.
+Repair action: Cleaned the cooling fan and rebalanced the rotor.
+Outcome: recurred within 30 days."
+WO-0036,MTR-001,2026-01-12,UNBAL,Rotor vibration grew after dust accumulation,Dust build-up on cooling fan blades caused rotor imbalance.,Cleaned the cooling fan and rebalanced the rotor.,recurred within 30 days,15.7,"Work order WO-0036 on MTR-001 (2026-01-12).
+Fault code: UNBAL (Rotor unbalance).
+Symptoms: Rotor vibration grew after dust accumulation.
+Root cause: Dust build-up on cooling fan blades caused rotor imbalance.
+Repair action: Cleaned the cooling fan and rebalanced the rotor.
+Outcome: recurred within 30 days."
+WO-0037,MTR-002,2026-03-14,WIND-INS,Insulation resistance dropped during megger test,Winding insulation degraded from sustained overheating.,Rewound the stator and applied new insulation varnish; retested insulation resistance.,"resolved, no recurrence in 30 days",17.3,"Work order WO-0037 on MTR-002 (2026-03-14).
+Fault code: WIND-INS (Winding insulation degradation).
+Symptoms: Insulation resistance dropped during megger test.
+Root cause: Winding insulation degraded from sustained overheating.
+Repair action: Rewound the stator and applied new insulation varnish; retested insulation resistance.
+Outcome: resolved, no recurrence in 30 days."
+WO-0038,MTR-002,2026-01-14,UNBAL,1x running speed vibration after fan service,Dust build-up on cooling fan blades caused rotor imbalance.,Cleaned the cooling fan and rebalanced the rotor.,"resolved, no recurrence in 30 days",17.1,"Work order WO-0038 on MTR-002 (2026-01-14).
+Fault code: UNBAL (Rotor unbalance).
+Symptoms: 1x running speed vibration after fan service.
+Root cause: Dust build-up on cooling fan blades caused rotor imbalance.
+Repair action: Cleaned the cooling fan and rebalanced the rotor.
+Outcome: resolved, no recurrence in 30 days."
+WO-0039,MTR-001,2026-01-16,COOL-FAIL,Motor temperature rising steadily under load,"Debris blocked the cooling fan airflow, reducing heat removal.",Cleared the cooling fins and replaced the fan shroud.,recurred within 30 days,33.5,"Work order WO-0039 on MTR-001 (2026-01-16).
+Fault code: COOL-FAIL (Cooling path blockage).
+Symptoms: Motor temperature rising steadily under load.
+Root cause: Debris blocked the cooling fan airflow, reducing heat removal.
+Repair action: Cleared the cooling fins and replaced the fan shroud.
+Outcome: recurred within 30 days."
+WO-0040,MTR-004,2026-02-01,MISALIGN,Coupling vibration at twice running speed,Shaft misalignment between motor and pump exceeded tolerance.,Realigned the shaft with laser alignment and re-torqued the coupling bolts.,"resolved, no recurrence in 30 days",31.4,"Work order WO-0040 on MTR-004 (2026-02-01).
+Fault code: MISALIGN (Shaft misalignment).
+Symptoms: Coupling vibration at twice running speed.
+Root cause: Shaft misalignment between motor and pump exceeded tolerance.
+Repair action: Realigned the shaft with laser alignment and re-torqued the coupling bolts.
+Outcome: resolved, no recurrence in 30 days."
